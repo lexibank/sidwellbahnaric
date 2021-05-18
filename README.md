@@ -1,4 +1,4 @@
-# CLDF Dataset derived from Sidwell's "Austroasiatic dataset for phylogenetic analysis" from 2015
+# CLDF Dataset derived from the Bahnaric data in Sidwell's "Austroasiatic dataset for phylogenetic analysis" from 2015
 
 Cite the source dataset as
 
