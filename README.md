@@ -1,8 +1,16 @@
 # CLDF Dataset derived from the Bahnaric data in Sidwell's "Austroasiatic dataset for phylogenetic analysis" from 2015
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/sidwellbahnaric/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/sidwellbahnaric/actions?query=workflow%3ACLDF-validation)
 
-> Sidwell, Paul. 2015. Austroasiatic dataset for phylogenetic analysis: 2015 version. Mon-Khmer Studies (Notes, Reviews, Data-Papers) 44. lxviii-ccclvii.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Sidwell, Paul. 2015. Austroasiatic dataset for phylogenetic analysis: 2015 version. Mon-Khmer Studies (Notes, Reviews, Data-Papers) 44. lxviii-ccclvii.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-By-4.0 license
 
@@ -24,6 +32,7 @@ This dataset by Sidwell (2015) was used as a gold standard benchmark in the stud
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/sidwellbahnaric/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/sidwellbahnaric/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -50,3 +59,10 @@ Johann-Mattis List | @LinguList  | maintainer | Other
 Paul Sidwell | | data collection | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
