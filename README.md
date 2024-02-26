@@ -1,6 +1,6 @@
 # CLDF Dataset derived from the Bahnaric data in Sidwell's "Austroasiatic dataset for phylogenetic analysis" from 2015
 
-[![CLDF validation](https://github.com/lexibank/sidwellbahnaric/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/sidwellbahnaric/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/MuffinLinwist/sidwellbahnaric/workflows/CLDF-validation/badge.svg)](https://github.com/MuffinLinwist/sidwellbahnaric/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -32,7 +32,7 @@ This dataset by Sidwell (2015) was used as a gold standard benchmark in the stud
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/sidwellbahnaric/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/sidwellbahnaric/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/MuffinLinwist/sidwellbahnaric/workflows/CLDF-validation/badge.svg)](https://github.com/MuffinLinwist/sidwellbahnaric/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -48,7 +48,7 @@ This dataset by Sidwell (2015) was used as a gold standard benchmark in the stud
 - **Cognate Diversity:** 0.20
 - **Invalid lexemes:** 0
 - **Tokens:** 17,314
-- **Segments:** 133 (0 BIPA errors, 0 CTLS sound class errors, 133 CLTS modified)
+- **Segments:** 133 (0 BIPA errors, 0 CLTS sound class errors, 133 CLTS modified)
 - **Inventory size (avg):** 47.12
 
 # Contributors
