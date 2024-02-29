@@ -48,7 +48,7 @@ This dataset by Sidwell (2015) was used as a gold standard benchmark in the stud
 - **Cognate Diversity:** 0.20
 - **Invalid lexemes:** 0
 - **Tokens:** 17,314
-- **Segments:** 133 (0 BIPA errors, 0 CTLS sound class errors, 133 CLTS modified)
+- **Segments:** 133 (0 BIPA errors, 0 CLTS sound class errors, 133 CLTS modified)
 - **Inventory size (avg):** 47.12
 
 # Contributors
